@@ -3,7 +3,7 @@ __id__ = "ege_trainer"
 __name__ = "ЕГЭ Тренер"
 __description__ = "Решение заданий для подготовки к ЕГЭ с ege.sdamgia.ru, а также статистика"
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "1.4.0"
+__version__ = "1.4.1"
 __min_version__ = "12.10.6"
 __icon__ = "MaxExteraPluginsStickers/4"
 
